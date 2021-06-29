@@ -1,6 +1,6 @@
 # Flutter for Enterprise
 
-My attempt on developing large scale application using flutter. Full article is available on [Medium](https://flutter.dev/docs/get-started/codelab).
+My attempt on developing large scale application using flutter. Full article is available on [Medium](https://preyea-regmi.medium.com/flutter-for-enterprise-a-cleaner-approach-2eac5daab352).
 
 ## Installation
 If you haven't setup flutter on your local machine, you can follow [setup instructions](https://flutter.dev/docs/get-started/install).
