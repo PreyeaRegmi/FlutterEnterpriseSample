@@ -1,13 +1,15 @@
 # Flutter for Enterprise
 
-My attempt on developing large scale application using flutter. Full article is available on [Medium](https://flutter.dev/docs/get-started/codelab). 
+My attempt on developing large scale application using flutter. Full article is available on [Medium](https://flutter.dev/docs/get-started/codelab).
 
 ## Installation
 If you haven't setup flutter on your local machine, you can follow [setup instructions](https://flutter.dev/docs/get-started/install).
- Currently there are two entry point to build the app, one for mobile platform and one for web respectively.  
- >**mobile/main.dart**
- >**web/main.dart**
+ Currently there are two entry point to build the app, one for mobile platform and one for web respectively.
  
+ >**mobile/main.dart**
+ 
+ >**web/main.dart**
+
 
 ## License
 
